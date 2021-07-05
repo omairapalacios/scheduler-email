@@ -18,7 +18,7 @@ y módulos adicionales como:
 ## Demo:
 
 <div align="center" style="margin-bottom:30px">
-  <img src="https://github.com/omairapalacios/send-automatic-report/blob/main/poc-email.png" width="650" title="imagen 1">
+  <img src="https://github.com/omairapalacios/send-automatic-report/blob/main/poc-email.png" width="750" title="imagen 1">
 </div>
 
 ### LICENCIA
